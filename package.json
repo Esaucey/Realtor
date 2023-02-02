@@ -20,5 +20,19 @@
     "react-dom": "18.2.0",
     "react-icons": "^4.7.1",
     "swiper": "^9.0.0"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esaucey/realtor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esaucey/realtor/issues"
+  },
+  "homepage": "https://github.com/Esaucey/realtor#readme"
 }
